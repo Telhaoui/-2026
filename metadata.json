@@ -1,0 +1,6 @@
+{
+  "name": "راصد النيازك",
+  "description": "تطبيق ذكي متكامل لرصد النيازك في الوقت الفعلي ومتابعة مساراتها وتحليلها بالذكاء الاصطناعي مع خرائط ملاحة سماوية تفاعلية ونظام تتبع ليلى مخصص.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
